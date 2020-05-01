@@ -15,6 +15,8 @@ import java.io.IOException;
  */
 public final class JodaTimeAndroid {
 
+    public static final String tzdataVersion = "2020a";
+    
     /** Whether the JodaTimeAndroid.init() method has been called. */
     private static boolean sInitCalled = false;
 
